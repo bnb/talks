@@ -9,10 +9,8 @@ Goal is to add at least one new talk a year. I'm still a relatively new public s
 
 ## Past Talks and Panels
 * **EmpireNode 2016 - Rocketing the Node.js Community Beyond the Edge**
-  
   * [Video](https://www.youtube.com/watch?v=lfy_k2REw8A)
   * [Site](http://2016.empirenode.org/)
 * **NodeSummit 2017 - Ch-ch-changes in the Node.js Community**
-  
-  * Video - 🔜
-  * [Site](http://www.nodesummit.com/)
+  * Video (Soon)
+  * [Site](http://2016.empirenode.org/)
