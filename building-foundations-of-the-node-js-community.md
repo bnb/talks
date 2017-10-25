@@ -2,7 +2,7 @@
 
 **Title:**
 ```
-Building the Foundations of the Node.js Community
+Building Foundations of the Node.js Community
 ```
 
 **Abstract:**
