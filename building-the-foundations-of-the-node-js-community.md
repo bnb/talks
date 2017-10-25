@@ -38,11 +38,11 @@ Now, we’re seeing step two in process of building the Community for the Commun
 
 There have been several new developments, such as…
 
-* Scaffolding out processes for the community to become technical editors to The Node.js Collection (https://medium.com/the-node-js-collection)
+Scaffolding out processes for the community to become technical editors to The Node.js Collection (https://medium.com/the-node-js-collection)
 
-* Moving community education efforts like nodejs/education and NodeTogether into a central place
+Moving community education efforts like nodejs/education and NodeTogether into a central place
 
-* Developing the documentation around the Community Committee to enable the Community to develop and grow naturally
+Developing the documentation around the Community Committee to enable the Community to develop and grow naturally
 
 These are the buds of momentum that is building for new community-based content that we’re seeing a need for as Node.js is growing, spreading, and diversifying.
 
@@ -61,6 +61,11 @@ We’re going to need people.
 We’re going to need the community.
 
 We need you.
+```
+
+**Pitch:**
+```
+Node.js is going through a community revolution right now, and people across the world are interested in the discussions happing around Node.js + Community. I am a co-chair of the Community Committee, the group leading the charge the greenfield Node.js community efforts.
 ```
 
 Recordings:
