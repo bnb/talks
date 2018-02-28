@@ -36,6 +36,11 @@ In reality, npm has made it dead-simple for developers and organizations to make
 In this talk, we’ll go over how the dependency tree works at a high level, how you can get bitten by it, and how you can cover your apps - both as developer and as a business.
 ```
 
+**Takeaways:**
+```
+Attendees will leave with an understanding of the more obscure parts of npm and what they're actually getting when they install a module. They'll learn how to set up safeguards - at a personal and professional level - against the common issues that npm has as a platform, so they don't get bitten by the next `left-pad` incident or registry outage.
+```
+
 **Pitch:**
 ```
 npm has outages and issues. It’s a SaaS platform - it unavoidably happens. What happens when a 2 LOC dependency you’ve never heard of breaks your builds?
