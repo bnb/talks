@@ -63,16 +63,18 @@ We’re going to need the community.
 We need you.
 ```
 
-**Pitch:**
-```
-Node.js is going through a community revolution right now, and people across the world are interested in the discussions happing around Node.js + Community. I am a co-chair of the Community Committee, the group leading the charge the greenfield Node.js community efforts.
-```
-
-**Audience**
+**Audience:**
 ```
 Node.js is going through a community revolution right now, and people across the world are interested in the discussions happing around Node.js + Community.
 
 As chairperson of the Node.js Community Committee, I'm working to help empower *anyone* who is interested in Node.js and cares about enabling people of all kinds to contribute to OSS, build awesome applications, learn to code, or otherwise engage with Node.js.
+```
+
+**Benefits to the Ecosystem:**
+```
+The aim of my presentation is to expose attendees the ongoing and growing efforts of the Node.js project to directly enable its community, and engage them to the point of contributing back to one of our initiatives in some way.
+
+The Node.js project has had a perception of being an insiders club - a perception that the Community Committee is actively trying to break down. Having discussions about the project and inviting those who may not normally be exposed to the work we do has proven to be one of our best avenues to get more diverse perspectives into the project.
 ```
 
 Recordings:
