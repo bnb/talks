@@ -68,5 +68,12 @@ We need you.
 Node.js is going through a community revolution right now, and people across the world are interested in the discussions happing around Node.js + Community. I am a co-chair of the Community Committee, the group leading the charge the greenfield Node.js community efforts.
 ```
 
+**Audience**
+```
+Node.js is going through a community revolution right now, and people across the world are interested in the discussions happing around Node.js + Community.
+
+As chairperson of the Node.js Community Committee, I'm working to help empower *anyone* who is interested in Node.js and cares about enabling people of all kinds to contribute to OSS, build awesome applications, learn to code, or otherwise engage with Node.js.
+```
+
 Recordings:
 * [EmpireNode](https://www.youtube.com/watch?v=lfy_k2REw8A) - Iteration one, prior to addition of CommComm content.
