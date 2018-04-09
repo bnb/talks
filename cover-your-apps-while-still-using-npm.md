@@ -5,7 +5,7 @@
 Cover Your Apps While Still Using npm
 ```
 
-**Abstract:**
+**Abstract / Pitch:**
 ```
 npm has outages and issues. It’s a SaaS platform - it unavoidably happens. What happens when a 2 LOC dependency you’ve never heard of breaks your builds?
 
@@ -41,12 +41,11 @@ In this talk, we’ll go over how the dependency tree works at a high level, how
 Attendees will leave with an understanding of the more obscure parts of npm and what they're actually getting when they install a module. They'll learn how to set up safeguards - at a personal and professional level - against the common issues that npm has as a platform, so they don't get bitten by the next `left-pad` incident or registry outage.
 ```
 
-**Pitch:**
+**Benefits to the Ecosystem:**
 ```
-npm has outages and issues. It’s a SaaS platform - it unavoidably happens. What happens when a 2 LOC dependency you’ve never heard of breaks your builds?
+The Node.js and JavaScript ecosystems have - on several occasions - called npm the Single Point of Failure (SPoF) for modern web development. The intent of this talk is to educate developers that this is in fact not the case, and that the npm team has done everything in their power to enable us, the end-users, to deploy successfully. End-users will be exposed to an ecosystem of tooling and resources available to ensure high-availablity of their dependencies, so they won't be bitten by the next left-pad or pinkie-promise.
+```
 
-npm is an extremely flexible tool, and there’s an entire ecosystem of tooling to enable you to cover your apps you should be using. Are you?
-```
 
 Recordings:
 - None yet 🤗
