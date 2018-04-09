@@ -9,7 +9,7 @@ Cover Your Apps While Still Using npm
 ```
 npm has outages and issues. It’s a SaaS platform - it unavoidably happens. What happens when a 2 LOC dependency you’ve never heard of breaks your builds?
 
-npm is an extremely flexible tool, and there’s an entire ecosystem of tooling to enable you to cover your apps you should be using. Are you?
+In this talk, Tierney will cover the spectrum of tooling available to end-users - no matter if they're indie developers or enterprise teams - to ensure that they're not exposing themselves to risk when modules they depend upon from npm - whether they know it or not - become unavailable.
 ```
 
 
