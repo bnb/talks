@@ -25,7 +25,7 @@ hello@bnb.im
 
 **Bio:**
 ```
-Tierney is Chairperson of the Node.js Community Committee, and a member of multiple Node.js working groups and initiatives  He worked on contributing to Node.js at college in his spare time, and now writes tutorials and articles for the Community, with the goal of always enabling and empowering those who want to learn about Node.js and its vibrant ecosystem.
+Tierney is Chairperson of the Node.js Community Committee, a Developer Advocate at NodeSource, and a member of multiple Node.js initiatives focusing on the continued growth and success of the Node.js community.
 ```
 
 **Speaking Credentials:**
