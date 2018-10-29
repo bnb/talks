@@ -47,5 +47,6 @@ The Node.js and JavaScript ecosystems have - on several occasions - called npm t
 ```
 
 
-Recordings:
-- None yet 🤗
+Given at:
+- Node+JS Interactive 2018
+- All Things Open
