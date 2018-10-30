@@ -19,6 +19,8 @@ We talk about community a lot in open source. Communities can make or break any 
 There are some common traits–universal lessons that can be taken from working with open source communities–that any open source community can benefit from understanding and approaching thoughtfully.
 
 So what are common traits amongst successful–and not so successful–communities? How can you begin to apply the lessons others have learned, instead of re-inventing the wheel? Most importantly, how can you help ensure _your_ community is successful?
+
+In this talk, I'll share the overlapping lessons I've had from four distinct OSS communities – Node.js, io.js, Tent, and MyBB – over the last eight years with the intent of enabling the next generation of Builders to leapfrog those lessons and hit the ground running.
 ```
 
 **Takeaways:**
