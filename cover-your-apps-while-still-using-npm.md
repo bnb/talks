@@ -21,19 +21,9 @@ These events were both caused by something simple - a module became temporarily 
 
 In reality, npm has made it dead-simple for developers and organizations to make sure their modules and highly available. The majority of the ecosystem isn’t aware of this, nor do they implement it effectively.
 
-In this talk, we’ll go over how the dependency tree works at a high level, how you can get bitten by it, and how you can cover your apps - both as developer and as a business.
+As we grow ever closer to 1 million modules published to the public npm registry, how can you protect yourself from the _next_ extinction-level event when it happens?
 
-```
-
-**Full:**
-```
-In the front-end and Node.js ecosystems, we’ve had two extinction-level events: left-pad and pinkie-promise.
-
-These events were both caused by something simple - a module became temporarily unavailable. Something seemingly innocuous caused thousands of developers and businesses builds to break and installs to fail. They weren’t prepared, and many were eager to blame npm as the single point of failure of the entire JavaScript ecosystem.
-
-In reality, npm has made it dead-simple for developers and organizations to make sure their modules and highly available. The majority of the ecosystem isn’t aware of this, nor do they implement it effectively.
-
-In this talk, we’ll go over how the dependency tree works at a high level, how you can get bitten by it, and how you can cover your apps - both as developer and as a business.
+In this talk, we’ll go over what can and will go wrong when using third-party JavaScript from a trusted source and how you can cover your apps with modern tooling - both as an individual developer and as a business.
 ```
 
 **Takeaways:**
