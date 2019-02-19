@@ -1,5 +1,10 @@
 **Title:** GitHub in Action: How I Learned to Stop Worrying and Embrace the Automaton
 
+**Elevator:**
+```
+GitHub has been rolling out features like Apps and Actions that are perfect for solving many of the problems JavaScript is now facing as it's ecosystem continues to grow at an incredible rate. Learn how to use GitHub Apps and GitHub Actions to automate away the hard parts of modern JavaScirpt.
+```
+
 **Full:**
 ```
 GitHub has been rolling out a suite of tools that have enabled the JavaScript community to begin the process of building mass automation for the unique problems that we face when compared to classical programming languages. These tools – namely, GitHub Actions and GitHub Apps – allow us as JavaScript developers to focus more on code and automate away the tedious parts of the modern JavaScript ecosystem.
