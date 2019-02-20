@@ -29,3 +29,5 @@ As the JavaScript ecosystem continues to expand at an unprecedented speed, we're
 
 Relevant Tweets:
  - https://twitter.com/JasonEtco/status/1097513650938621953?s=20
+ - https://twitter.com/dylanbeattie/status/1098204272653676544?s=20
+ - https://twitter.com/dan_abramov/status/1098236222051418114?s=20
