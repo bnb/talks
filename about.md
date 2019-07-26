@@ -25,7 +25,7 @@ hello@bnb.im
 
 **Bio:**
 ```
-Tierney is a member of the Node.js Community Committee and several other Node.js initiatives. He is a Senior Cloud Developer Advocate at Microsoft who enjoys being unintelligible on Twitter and invariably embarrassing himself.
+Tierney is a member and former Chairperson of the Node.js Community Committee, and a contributor to multiple Node.js working groups and initiatives focusing on the continued growth and success of the Node.js community. He's been contributing to open-source since he was 16, starting out in MyBB – a PHP forum system. Since then, his focus has largely been geared toward developer tooling and communities.
 ```
 
 **Speaking Credentials:**
