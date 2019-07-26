@@ -15,7 +15,7 @@ Men's Medium
 
 **Avatar URL:**
 ```
-https://github.com/bnb/talks/blob/master/avatar.jpg
+https://bnb.im/img/social/avatar-late-2018.jpeg
 ```
 
 **Email:**
