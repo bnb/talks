@@ -22,8 +22,10 @@ That implementation is (hopefully!) here, providing the ability to use ESM nativ
 In this talk, we'll go over the various distinct features of the new module system in Node.js. This includes implicit and explicit ESM and CommonJS, the current state of interoperability between the two, and The Nice Parts of CommonJS that are different in ESM like JSON imports and no file extensions. 
 
 You'll walk away ready to use ESM as a first-class module within your next Node.js project.```
+```
 
 **Impact:**
+
 ```
 With ESM being one of Node.js's most requested features - and most worked on features - having an entry-level talk that simplifies what's new into something digestible and immediately usable.
 ```
