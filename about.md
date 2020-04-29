@@ -25,9 +25,11 @@ hello@bnb.im
 
 **Bio:**
 ```
-Tierney is a member and Chairperson of the Node.js Community Committee and a contributor to various Node.js working groups and initiatives focusing, on the continued growth and success of the Node.js community. He also participates in Electron, TC39, and the OpenJS Foundation CPC. He's been contributing to open-source since he was 16. Since then, his focus has largely been geared toward developer tooling and communities.```
+Tierney is a member and Chairperson of the Node.js Community Committee and a contributor to various Node.js working groups and initiatives focusing, on the continued growth and success of the Node.js community. He also participates in Electron, TC39, and the OpenJS Foundation CPC. He's been contributing to open-source since he was 16. Since then, his focus has largely been geared toward developer tooling and communities.
+```
 
 **Speaking Credentials:**
+
 ```
 - Node.js Interactive, the Node.js Foundation's official event
 - Node Summit, the most well-known Node.js event focusing on Node.js in the Enterprise
