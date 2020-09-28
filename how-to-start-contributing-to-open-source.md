@@ -1,8 +1,8 @@
-# How to Start Contributing To Open-Source
+# How to Start Contributing To Open Source
 
 **Title:**
 ```
-How to Start Contributing To Open-Source
+How to Start Contributing To Open Source
 ```
 
 **Abstract:**
