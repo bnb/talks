@@ -25,8 +25,7 @@ hello@bnb.im
 
 **Bio:**
 ```
-Tierney is a member and Chairperson of the Node.js Community Committee and a contributor to various Node.js working groups and initiatives focusing, on the continued growth and success of the Node.js community. He also participates in Electron, TC39, and the OpenJS Foundation CPC. He's been contributing to open-source since he was 16. Since then, his focus has largely been geared toward developer tooling and communities.
-```
+Tierney is a Senior Cloud Developer Advocate at Microsoft, where he spends his time on Node.js, Electron, TC39, and the OpenJS Foundation. In Tierney’s spare time, they enjoy playing video games with friends and watching YouTube.```
 
 **Speaking Credentials:**
 
