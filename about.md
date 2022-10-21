@@ -25,5 +25,5 @@ hello@bnb.im
 
 **Bio:**
 ```
-Tierney is a Developer Advocate on the JavaScript Cloud Advocacy team at Microsoft, focusing on the JavaScript ecosystem through contributions to Node.js, Electron, TC39, the OpenJS Foundation, and numerous other parts of the ecosystem. He's always the Impostor. He lives in New York City, but (normally) travels often.
+Tierney is a Principal Developer Advocate at Twilio, where they spend their time working with various product teams on improving developer experience. In Tierney’s spare time, they enjoy playing video games with friends, watching YouTube, and riding their ebike around Manhattan.
 ```
