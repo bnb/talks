@@ -10,7 +10,7 @@ https://bnb.im
 
 **Shirt Size:**
 ```
-Men's XL
+Men's L
 ```
 
 **Avatar URL:**
