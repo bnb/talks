@@ -15,7 +15,7 @@ Men's L
 
 **Avatar URL:**
 ```
-https://bnb.im/img/avatar.jpeg
+https://bnb.im/img/avatar.jpg
 ```
 
 **Email:**
