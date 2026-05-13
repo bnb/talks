@@ -25,4 +25,5 @@ hello@bnb.im
 
 **Bio:**
 ```
-Tierney is a Principal Developer Advocate at Twilio, where they spend their time working with various product teams on improving developer experience. In Tierney’s spare time, they enjoy playing video games with friends, watching YouTube, DJ'ing, and riding their ebike around Brooklyn and Manhattan.```
+Tierney is a career Developer Advocate, having worked at Microsoft, NodeSource, and Twilio, where they've worked on developer tools and products for millions of developers. In Tierney’s spare time, they enjoy playing dubstep and bass house at nightclubs in New York City, attempting to keep up their KDA in multiplayer FPSes, and riding their bikes around for cardio.
+```
