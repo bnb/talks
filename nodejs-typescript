@@ -1,0 +1,14 @@
+# No Compiler Needed: TypeScript Just Works in Node.js
+
+**Title:**
+```
+No Compiler Needed: TypeScript Just Works in Node.js
+```
+
+**Full:**
+```
+Node.js was created nearly two decades ago - at the time, there was no JavaScript toolchain. Newer runtimes like Deno and Bun have had over a decade of insight into How Developers Work. A true killer feature for them was native TypeScript support, no configuration. Thanks to a handful of maintainers, today the same is true with Node.js - you can run your .ts files directly. In this talk you'll learn TypeScript in Node.js from first principles, what is (and isn't) available, and what's still up for discussion.
+```
+
+Recordings:
+- N/A
